@@ -1,4 +1,22 @@
 # Harris County SNAP Participation Opportunity Analysis
 ### Identifying communities with high SNAP eligibility and lower estimated participation across Harris County.
 
-This project analyzes potential SNAP participation opportunities using 2024 American Community Survey (ACS) data, HUD USPS Zip Code Crosswalks, and open data sources. The analysis estimates the population below 125% of the Federal Poverty Level and compares it to estimated SNAP participants to identify geographic areas with the largest gaps in enrollment.
+![Python](https://img.shields.io/badge/Pythonyle=for-the-badge&logo=python&logoColor=white
+4
+![Pandas](https://imgo/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+5
+![BigQuery](https://img.shields.io/badge/BigQuery-4285-the-badge&logo=googlecloud&logoColor=white
+6
+![SQL](https://img.shields.io/badge6791?style=for-the-badge
+7
+![Tableau](https://img.shields.io/badge/Tableaule=for-the-badge&logo=tableau&logoColor=white
+8
+![Census API](https://img.shields.io/badge/Census_API-or-the-badge
+9
+![HUD API](https://img.shields.io/badge/HUD_API-2E8or-the-badge
+10
+![GIS](https://img.shields.io/badge/GIStial-orange?style=for-the-badge
+11
+``
+
+
