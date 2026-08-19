@@ -1,2 +1,2 @@
 # Harris County SNAP Participation Opportunity Analysis
-Geospatial SNAP participation opportunity analysis using ACS Census data, HUD USPS crosswalk APIs, Python, BigQuery, SQL, and Tableau.
+This project analyzes potential SNAP participation opportunities using 2024 American Community Survey (ACS) data, HUD USPS Zip Code Crosswalks, and open data sources. The analysis estimates the population below 125% of the Federal Poverty Level and compares it to estimated SNAP participants to identify geographic areas with the largest gaps in enrollment.
