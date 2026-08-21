@@ -29,14 +29,12 @@ Already show 60% + estimated participation
 Can focus where participation appears lowest
 
 ## 🛠 Methodology
-
-![capture](desktop/capture.png
 ### 💹 ACS C17002      ➡            🏠 ACS S2201         ➡          👥ACS B25010      ➡          🔎BigQuery        ➡         📊 Analysis
-Population <125% FPL (Eligibility Proxy)
-Households receiving SNAP
-Average Household Size
-Data integration and modeling
-Participation rate and enrollment gap
+  ACS C17002 - Population <125% FPL (Eligibility Proxy)
+  ACS S2201 - Households receiving SNAP
+  ACS B25010 - Average Household Size
+  BigQuery - Data integration and modeling
+  Analysis - Participation rate and enrollment gap 
 
 
 
