@@ -34,7 +34,8 @@ Can focus where participation appears lowest
 
 </td width="60%">
 
-<![dashboards/screenshots/Snap_Gap_Map_screenshot.png">
+<img width="1855" height="778" alt="SNAP Gap Map Screenshot" src="https://github.com/user-attachments/assets/830d7604-9ae4-4e31-9237-83003a6d7af2" />
+
 
 </td>
 </tr>
