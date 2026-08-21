@@ -1,7 +1,7 @@
 # Harris County SNAP Participation Opportunity Analysis
 > Identifying communities with high SNAP eligibility and lower estimated participation across Harris County.
 
-Built With
+![Static Badge](https://img.shields.io/badge/Built%20With-white)
 ![Static Badge](https://img.shields.io/badge/Census%20API%20-%20Blue)
 ![Static Badge](https://img.shields.io/badge/HUD%20API%20-%20Green)
 ![Static Badge](https://img.shields.io/badge/Python-orange)
