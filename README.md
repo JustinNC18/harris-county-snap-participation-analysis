@@ -29,6 +29,8 @@ Already show 60% + estimated participation
 Can focus where participation appears lowest
 
 ## 🛠 Methodology
+
+![capture](desktop/capture.png
 ### 💹 ACS C17002      ➡            🏠 ACS S2201         ➡          👥ACS B25010      ➡          🔎BigQuery        ➡         📊 Analysis
 Population <125% FPL (Eligibility Proxy)
 Households receiving SNAP
