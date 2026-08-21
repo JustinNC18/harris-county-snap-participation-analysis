@@ -21,10 +21,12 @@ This project analyzes potential SNAP participation opportunities using 2024 Amer
 ### 💻 130+ Zip Codes
 Analyzed in Harris County
 ### 📉 Two Major Opportunity Areas
-        North-Northwest Houston and
-        South-Southwest Houston
+North-Northwest Houston and
+South-Southwest Houston
 ### 📈 Many high-need areas
-       Already show 60% + estimated participation
+Already show 60% + estimated participation
+### 🔍 Targeted Outreach
+Can focus where participation appears lowest
 
 
 
