@@ -28,6 +28,10 @@ Already show 60% + estimated participation
 ### 🔍 Targeted Outreach
 Can focus where participation appears lowest
 
+</td width="60%">
+
+dashboard/screenshots/snap_gap_map_screenshot.png">
+
 ## 🛠 Methodology
 ### 💹 ACS C17002       ➡            🏠 ACS S2201          ➡          👥ACS B25010       ➡          🔎BigQuery         ➡         📊 Analysis
 The above 3 census tables were pulled into BigQuery and integrated into a dataset. These tables bring together data on population below 125% FPL, HH's receiving SNAP and Avg. HH size. Analysis on participation rates compared to estimated eligible was mapped onto Tableau dashboard.
