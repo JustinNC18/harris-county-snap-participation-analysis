@@ -13,9 +13,6 @@
 ## 🎯 Project Overview
 This project analyzes potential SNAP participation opportunities using 2024 American Community Survey (ACS) data, HUD USPS Zip Code Crosswalks, and open data sources. The analysis estimates the population below 125% of the Federal Poverty Level and compares it to estimated SNAP participants to identify geographic areas with the largest opportunity gaps.
 
-<table>
-  <tr>
-    <td width="35%" valign="top">
 
 ## 📊 Key Findings
 ### 💻 130+ Zip Codes
@@ -28,14 +25,7 @@ Already show 60% + estimated participation
 ### 🔍 Targeted Outreach
 Can focus where participation appears lowest
 
-</td>
-<td width="65%" valign="right">
-
 <img width="1855" height="778" alt="SNAP Gap Map Screenshot" src="https://github.com/user-attachments/assets/830d7604-9ae4-4e31-9237-83003a6d7af2" />
-
-</td>
-</tr>
-</table>
 
 ## 🛠 Methodology
 ### 💹 ACS C17002       ➡            🏠 ACS S2201          ➡          👥ACS B25010       ➡          🔎BigQuery         ➡         📊 Analysis
