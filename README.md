@@ -34,7 +34,7 @@ Can focus where participation appears lowest
 
 </td width="60%">
 
-dashboard/screenshots/snap_gap_map_screenshot.png">
+dashboards/screenshots/Snap_Gap_Map_screenshot.png">
 
 </td>
 </tr>
