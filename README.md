@@ -29,8 +29,8 @@ Already show 60% + estimated participation
 Can focus where participation appears lowest
 
 ## 🛠 Methodology
-### 💹 ACS C17002 (125%FPL)      ➡            🏠 ACS S2201 (HH's on SNAP)         ➡          👥ACS B25010 (Avg. HH size)      ➡          🔎BigQuery (Data Integration)        ➡         📊 Analysis (Participation rates)
-The above 3 census tables were pulled into BigQuery and integrated into a table 
+### 💹 ACS C17002       ➡            🏠 ACS S2201          ➡          👥ACS B25010       ➡          🔎BigQuery         ➡         📊 Analysis
+The above 3 census tables were pulled into BigQuery and integrated into a dataset. These tables bring together data on population below 125% FPL, HH's receiving SNAP and Avg. HH size. Analysis on participation rates compared to estimated eligible was mapped onto Tableau dashboard.
 
 
 
