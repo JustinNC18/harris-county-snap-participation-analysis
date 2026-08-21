@@ -15,7 +15,7 @@ This project analyzes potential SNAP participation opportunities using 2024 Amer
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
 
 ## 📊 Key Findings
 ### 💻 130+ Zip Codes
@@ -29,7 +29,7 @@ Already show 60% + estimated participation
 Can focus where participation appears lowest
 
     </td>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
 
 <img width="1855" height="778" alt="SNAP Gap Map Screenshot" src="https://github.com/user-attachments/assets/830d7604-9ae4-4e31-9237-83003a6d7af2" />
 
