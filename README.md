@@ -17,6 +17,10 @@
 ## 🎯 Project Overview
 This project analyzes potential SNAP participation opportunities using 2024 American Community Survey (ACS) data, HUD USPS Zip Code Crosswalks, and open data sources. The analysis estimates the population below 125% of the Federal Poverty Level and compares it to estimated SNAP participants to identify geographic areas with the largest opportunity gaps.
 
+<table>
+<tr>
+<td width="40%">
+
 ## 📊 Key Findings
 ### 💻 130+ Zip Codes
 Analyzed in Harris County
@@ -31,6 +35,10 @@ Can focus where participation appears lowest
 </td width="60%">
 
 dashboard/screenshots/snap_gap_map_screenshot.png">
+
+</td>
+</tr>
+</table>
 
 ## 🛠 Methodology
 ### 💹 ACS C17002       ➡            🏠 ACS S2201          ➡          👥ACS B25010       ➡          🔎BigQuery         ➡         📊 Analysis
