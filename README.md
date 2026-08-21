@@ -26,6 +26,7 @@ Already show 60% + estimated participation
 Can focus where participation appears lowest
 
 <img width="1855" height="778" alt="SNAP Gap Map Screenshot" src="https://github.com/user-attachments/assets/830d7604-9ae4-4e31-9237-83003a6d7af2" />
+(https://public.tableau.com/app/profile/justin.chacko/viz/HarrisCountySNAPGapAnalysis/HeatMap)
 
 ## 🛠 Methodology
 ### 💹 ACS C17002       ➡            🏠 ACS S2201          ➡          👥ACS B25010       ➡          🔎BigQuery         ➡         📊 Analysis
