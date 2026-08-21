@@ -29,7 +29,7 @@ Already show 60% + estimated participation
 Can focus where participation appears lowest
 
 ## 🛠 Methodology
-### 💹 ACS C17002            🏠 ACS S2201               👥ACS B25010          🔎BigQuery               📊 Analysis
+### 💹 ACS C17002      ➡            🏠 ACS S2201         ➡          👥ACS B25010      ➡          🔎BigQuery        ➡         📊 Analysis
 Population <125% FPL (Eligibility Proxy)
 
 
