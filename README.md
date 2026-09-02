@@ -25,7 +25,7 @@ Already show 60% + estimated participation
 ### 🔍 Targeted Outreach
 Can focus where participation appears lowest
 
-<img width="1855" height="778" alt="SNAP Gap Map Screenshot" src=dashboard/screenshots/snap_gap_map_Screenshot.PNG" />
+<img width="1855" height="778" alt="SNAP Gap Map Screenshot" src=dashboard/screenshots/snap_gap_map_ Screenshot.PNG" />
 *Right click link below to open dashboard in new window"
 https://public.tableau.com/app/profile/justin.chacko/viz/HarrisCountySNAPGapAnalysis/HeatMap
 
