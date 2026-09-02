@@ -2,7 +2,7 @@
 02_pull_s2201.py
 
 Purpose:
-Retrieve ACS 2024 S2201 poverty data for all ZIP Code
+Retrieve ACS 2024 S2201 estimated SNAP Household enrollment counts for all ZIP Code
 Tabulation Areas (ZCTAs) and save results as a CSV file.
 
 Project:
