@@ -31,8 +31,12 @@ Can focus where participation appears lowest
 https://public.tableau.com/app/profile/justin.chacko/viz/HarrisCountySNAPGapAnalysis/HeatMap
 
 ## 🛠 Methodology
-### 💹 ACS C17002       ➡            🏠 ACS S2201          ➡          👥ACS B25010       ➡          🔎BigQuery         ➡         📊 Analysis
-The above 3 census tables were pulled into BigQuery and integrated into a dataset. These tables bring together data on population below 125% FPL, HH's receiving SNAP and Avg. HH size. Analysis on participation rates compared to estimated eligible was mapped onto Tableau dashboard.
+### 💹 ACS C17002       ➡            🏠 ACS S2201          ➡          👥 ACS B25010       ➡        🗺 HUD Zip Crosswalk    ➡         🏴 County Assignment   ➡         🔎 BigQuery         ➡        📊 Analysis
+*The above ACS tables were pulled into BigQuery and integrated into a dataset. These tables bring together data on population below 125% FPL, HH's receiving SNAP and Avg. HH size. 
+
+*HUD zip code and county lookup census table were pulled to properly map ACS zip code data.  
+
+*Analysis on participation rates compared to estimated eligible population was mapped onto Tableau dashboard.
 
 
 
