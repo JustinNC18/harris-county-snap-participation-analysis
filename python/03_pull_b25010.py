@@ -11,6 +11,9 @@ Harris County SNAP Participation Opportunity Analysis
 
 Source:
 U.S. Census Bureau ACS 5-Year Estimates
+
+Output:
+acs_B25010.csv
 """
 
 import requests
