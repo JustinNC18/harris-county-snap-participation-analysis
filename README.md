@@ -40,11 +40,11 @@ https://public.tableau.com/app/profile/justin.chacko/viz/HarrisCountySNAPGapAnal
 ### 📝 Key Steps
 
 * **Dataset Integration**
-  * The **ACS tables** listed above were ingested into **BigQuery** to combine multiple demographic layers.
-  * This integration brings together essential data metrics: **population below 125% FPL**, **households receiving SNAP benefits**, and **average household size**.
+  * The **ACS tables** listed above were imported into **BigQuery** to create a snap gap table.
+  * This integration is based on 3 data metrics: **population below 125% FPL**, **households receiving SNAP benefits**, and **average household size**.
 
 * **Geographic Mapping**
-  * The **HUD ZIP code crosswalk** and census county lookup tables were processed to accurately map the underlying ACS ZIP code data.
+  * The **HUD ZIP code crosswalk** and census county lookup tables were imported into **BigQuery** and added to snap gap table to accurately map the underlying ACS ZIP code data.
 
 * **Dashboard & Analysis**
   * Final analysis on program **participation rates** compared to the estimated **eligible population** was successfully mapped onto an interactive **Tableau dashboard**.
