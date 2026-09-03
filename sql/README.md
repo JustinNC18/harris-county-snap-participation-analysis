@@ -26,6 +26,6 @@ Table cleanup.
 
 Final snap gap analysis table created by joining previous tables and zip crosswalk table. 
 
-## 05_opportunity_categories.sql
+## 05_snap_gap_table_county_export.sql
 
-Creates Tableau opportunity categories.
+Export filtered data to csv for select gulf coast counties of interest in Texas.
