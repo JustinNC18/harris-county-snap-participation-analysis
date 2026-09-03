@@ -9,6 +9,7 @@ https://public.tableau.com/app/profile/justin.chacko/viz/HarrisCountySNAPGapAnal
 The following calculated field was used to classify zip codes into opportunity categories.
 
 **
+
 IF [Eligible 125 Fpl Pct] < 0.10 
 THEN "Lower Poverty Areas"
 
