@@ -7,6 +7,9 @@ Create a county lookup table using ACS county data. This lookup is used to supoo
 Project:
 Harris County SNAP Participation Analysis
 
+Source:
+U.S. Census Bureau ACS 5-Year Estimates
+
 Output:
 county_lookup.csv
 """
