@@ -8,6 +8,7 @@ https://public.tableau.com/app/profile/justin.chacko/viz/HarrisCountySNAPGapAnal
 # Tableau Opportunity Categories
 The following calculated field was used to classify zip codes into opportunity categories.
 
+**
 IF [Eligible 125 Fpl Pct] < 0.10 
 THEN "Lower Poverty Areas"
 
@@ -25,6 +26,8 @@ THEN "Moderate (60%-70%)"
 
 ELSE "Lower Opportunity (>70%)"
 END
+
+**
 
 --Output: Color Coded Opportunity map
 
