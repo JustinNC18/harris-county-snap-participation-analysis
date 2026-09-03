@@ -14,7 +14,7 @@
 
 Table cleanup and 125% FPL and under columns created.
 
-## 02_cS2201_Table_Adjustments.sql
+## 02_S2201_Table_Adjustments.sql
 
 Table cleanup.
 
