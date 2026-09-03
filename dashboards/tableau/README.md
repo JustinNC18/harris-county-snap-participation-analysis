@@ -32,7 +32,8 @@ END
 
 --Output: Color Coded Opportunity map
 
-<img width="274" height="153" alt="image" src="https://github.com/user-attachments/assets/71626c35-ba43-404b-a350-14945946e23e" />
+<img width="555" height="461" alt="image" src="https://github.com/user-attachments/assets/98a92a04-a8d0-4248-9baa-d86bcd59963c" />
+
 
 
 
